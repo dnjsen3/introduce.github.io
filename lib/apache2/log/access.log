@@ -1,0 +1,2 @@
+10.240.1.16 - - [26/Apr/2017:18:43:30 +0000] "GET /%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C.html HTTP/1.1" 200 2055 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
+10.240.0.213 - - [26/Apr/2017:18:43:32 +0000] "GET /favicon.ico HTTP/1.1" 404 521 "https://my-profile--dnjsen3.c9users.io/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36"
